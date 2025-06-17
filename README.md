@@ -15,9 +15,9 @@ Through this project, I researched and practised intensely to master the flutter
 ---
 
 ## 📸 Screenshots
-1.The grocery Login page 
-2.The grocery list page which includees all the items available that can be added to cart , as well as a sort and search option 
-3.The shared cart page that shows the cart of each individual person as well as the combined checkout 
+*  1.The grocery Login page 
+*  2.The grocery list page which includees all the items available that can be added to cart , as well as a sort and search option 
+*  3.The shared cart page that shows the cart of each individual person as well as the combined checkout 
 ![image](https://github.com/user-attachments/assets/1f339d5b-0a9d-4b15-8fb5-bf4712e97c37)
 
 ---
