@@ -1,5 +1,5 @@
 # README-for-Collaborative-Grocery-Ordering-System
-a project that involved creating a Frontend for a group grocery ordering system
+A project that involved creating a Frontend for a group grocery ordering system
 # 
 
 **Important Note:** The source code for this project is hosted in a private university repository to comply with academic integrity policies. This repository serves as a detailed public summary of my specific contributions to the project.
